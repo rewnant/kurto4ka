@@ -1,3 +1,3 @@
-git commit -m "A"
 git add .
+git commit -m "B"
 git push

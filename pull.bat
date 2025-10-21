@@ -1,4 +1,4 @@
-@echo off
+@echo off 
 echo ============clenup
 del /f /s /q .git
 echo ============init
